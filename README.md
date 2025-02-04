@@ -1,12 +1,12 @@
-Color codes : #2a2a2a, #0072bc, #f0f0f0
-main nav bar : white bg
+- Color codes : #2a2a2a, #0072bc, #f0f0f0
+- main nav bar : white bg
 
-LOGO
+### LOGO
 -------
-brew --> 2a2a2a (white will be replaced)
-nok --> 0072bc (green will be replaced)
+- brew --> 2a2a2a (white will be replaced)
+- nok --> 0072bc (green will be replaced)
 
-navbar links : 
+- navbar links : 
       - Home
       - About
       - Services (dropdown)
