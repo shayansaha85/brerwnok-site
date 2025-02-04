@@ -1,45 +1,65 @@
-- Color codes : #2a2a2a, #0072bc, #f0f0f0
-- main nav bar : white bg
+# Website Updates
 
-### LOGO
--------
-- brew --> 2a2a2a (white will be replaced)
-- nok --> 0072bc (green will be replaced)
+## Color Codes
+- **Primary Dark**: `#2a2a2a`
+- **Primary Blue**: `#0072bc`
+- **Light Gray**: `#f0f0f0`
 
-- navbar links : 
-      - Home
-      - About
-      - Services (dropdown)
-            - IT Services
-            - Marketing Services
-      - Products
-      - Blog
-      - Contact
+## Navigation Bar
+- **Background**: White
+- **Logo Colors**:
+  - `brew` → `#2a2a2a` (replacing white)
+  - `nok` → `#0072bc` (replacing green)
+- **Navbar Links**:
+  - Home
+  - About
+  - Services (Dropdown)
+    - IT Services
+    - Marketing Services
+  - Products
+  - Blog
+  - Contact
+- **Modifications**:
+  - Remove the search button next to the phone number.
 
-Remove search button on the right side of phone number from navbar
+## Information Panel
+- **Remove**: "25 Thousands of successful business"
 
-25 Thousands of successful business --> DELETE this from the information pannel
+## Carousel
+- **Read More Button Redirects**:
+  - IT Services → IT page
+  - Marketing Services → Marketing page
+- **All "Contact Us" Buttons** redirect to the **Contact page**.
 
-carousel 1:
-Read More button redirect to --> Services (for IT it should be IT page, for business it should be marketing page)
-All Contact Us button in the web page should redirect to --> Contact
+## Social Links
+- **Facebook**: https://www.facebook.com/brewnok
+- **Instagram**: https://www.instagram.com/brewnok
+- **LinkedIn**: https://www.linkedin.com/company/brewnok/
 
-social links
-fb : https://www.facebook.com/brewnok
-insta : https://www.instagram.com/brewnok
-linkedin : https://www.linkedin.com/company/brewnok/
+---
 
+# Home Page Updates
 
-ON HOME PAGE
---------------
+## About Us Section
+- "More Details" button redirects to the **About page**.
 
-About Us section --> More Details --> About page
-Our Products
-Remove Our Blog
-Remove Our Team
-Remove Client Saying Section --> Temporary
+## Sections to Keep
+- **Our Products**
 
+## Sections to Remove
+- Our Blog
+- Our Team
+- Client Saying Section (Temporary)
 
-Footer:
-Short Link: According to Navbar (no contact)
-Help : T&C, Privacy Policy, FAQ, Contact
+---
+
+# Footer Updates
+
+## Short Link
+- Mirror **Navbar Links** (excluding Contact).
+
+## Help Section
+- Terms & Conditions (T&C)
+- Privacy Policy
+- FAQ
+- Contact
