@@ -8,8 +8,7 @@
 ## Navigation Bar
 - **Background**: White
 - **Logo Colors**:
-  - `brew` → `#2a2a2a` (replacing white)
-  - `nok` → `#0072bc` (replacing green)
+  - Logo to be given (png file)
 - **Navbar Links**:
   - Home
   - About
@@ -20,7 +19,7 @@
   - Blog
   - Contact
 - **Modifications**:
-  - Remove the search button next to the phone number.
+  - Remove the search button next to the phone number. [x]
 
 ## Information Panel
 - **Remove**: "25 Thousands of successful business"
@@ -35,6 +34,7 @@
 - **Facebook**: https://www.facebook.com/brewnok
 - **Instagram**: https://www.instagram.com/brewnok
 - **LinkedIn**: https://www.linkedin.com/company/brewnok/
+- **Website**: https://brewnok.com
 
 ---
 
@@ -42,6 +42,7 @@
 
 ## About Us Section
 - "More Details" button redirects to the **About page**.
+- heading : About brewnok And It's Innovative Business Solutions
 
 ## Sections to Keep
 - **Our Products**
@@ -57,9 +58,9 @@
 
 ## Short Link
 - Mirror **Navbar Links** (excluding Contact).
+  - exception: Instead of Services add IT Services and Marketing Services Explicitly
 
 ## Help Section
 - Terms & Conditions (T&C)
 - Privacy Policy
 - FAQ
-- Contact
