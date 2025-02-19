@@ -18,6 +18,9 @@
 .light_text_color {
   color: var(--primary_light_gray);
 }
+.ribbon {
+  background-color: var(--primary_blue);
+}
 #spinner {
   opacity: 0;
   visibility: hidden;
